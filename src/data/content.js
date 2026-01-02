@@ -35,13 +35,13 @@ export const heroData = {
   // Typewriter hashtags (cycles through these)
   hashtags: [
     "#WeAreOpenInfra",
+    "#KamiOpenInfra",
     "#我们是OpenInfra",
     "#私たちはOpenInfra",
     "#우리는OpenInfra",
     "#हमOpenInfraहैं",
     "#เราคือOpenInfra",
     "#ChúngTôiLàOpenInfra",
-    "#KamiOpenInfra",
     "#ကျွန်တော်တို့OpenInfra",
   ],
   
@@ -158,7 +158,7 @@ export const pastEvents = [
   },
   {
     id: 3,
-    title: "OpenInfra Summit Asia 2022",
+    title: "OpenInfra Days Asia 2022",
     date: "November 2022",
     location: "Virtual Event",
     attendees: "2,000+",
@@ -168,7 +168,7 @@ export const pastEvents = [
   },
   {
     id: 4,
-    title: "OpenInfra Summit Asia 2021",
+    title: "OpenInfra Days Asia 2021",
     date: "October 2021",
     location: "Virtual Event",
     attendees: "1,800+",
@@ -188,14 +188,14 @@ export const pastEvents = [
  * - Website links open in new tab
  */
 export const countryCommunities = [
-  { id: 1, name: "China", flag: "🇨🇳", members: "2,500+", website: "https://openinfra.cn" },
-  { id: 2, name: "India", flag: "🇮🇳", members: "1,200+", website: "https://openinfra.in" },
-  { id: 3, name: "Indonesia", flag: "🇮🇩", members: "450+", website: "https://openinfra.id" },
-  { id: 4, name: "Japan", flag: "🇯🇵", members: "800+", website: "https://openinfra.jp" },
-  { id: 5, name: "Myanmar", flag: "🇲🇲", members: "350+", website: "https://openinfra.mm" },
-  { id: 6, name: "South Korea", flag: "🇰🇷", members: "650+", website: "https://openinfra.kr" },
-  { id: 7, name: "Thailand", flag: "🇹🇭", members: "280+", website: "https://openinfra.th" },
-  { id: 8, name: "Vietnam", flag: "🇻🇳", members: "400+", website: "https://openinfra.vn" },
+  { id: 1, name: "China", flag: "🇨🇳", website: "https://openinfra.cn" },
+  { id: 2, name: "India", flag: "🇮🇳", website: "https://openinfra.in" },
+  { id: 3, name: "Indonesia", flag: "🇮🇩", website: "https://openinfra.id" },
+  { id: 4, name: "Japan", flag: "🇯🇵", website: "https://openinfra.jp" },
+  { id: 5, name: "Myanmar", flag: "🇲🇲", website: "https://openinfra.mm" },
+  { id: 6, name: "South Korea", flag: "🇰🇷", website: "https://openinfra.kr" },
+  { id: 7, name: "Thailand", flag: "🇹🇭", website: "https://openinfra.th" },
+  { id: 8, name: "Vietnam", flag: "🇻🇳", website: "https://openinfra.vn" },
 ];
 
 // ============================================================================
@@ -213,10 +213,10 @@ export const footerData = {
   
   // Social media links
   social: {
-    twitter: "https://twitter.com/openinfra",
-    linkedin: "https://linkedin.com/company/openinfra",
-    youtube: "https://youtube.com/openinfra",
-    github: "https://github.com/openinfra",
+    twitter: "https://twitter.com/openinfraasia",
+    linkedin: "https://www.linkedin.com/company/openinfra-asia",
+    youtube: "https://www.youtube.com/@openinfraasia",
+    github: "https://github.com/openinfraasia",
   },
   
   // Contact information
