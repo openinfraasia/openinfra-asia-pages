@@ -115,7 +115,7 @@ export const upcomingEvents = [
     ],
     ctaLink: "https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/",
     featured: true,
-    image: "/images/summit-asia-2026.png",
+    image: "/images/openinfra-summit-asia-2026.png",
   },
 ];
 
@@ -133,7 +133,7 @@ export const pastEvents = [
     attendees: "1,500+",
     speakers: "50+",
     websiteLink: "https://2024.openinfraasia.org",
-    image: "/images/summit-asia-2024.png",
+    image: "/images/openinfra-summit-asia-2024.png",
   },
   {
     id: 2,
@@ -153,7 +153,7 @@ export const pastEvents = [
     attendees: "1,800+",
     speakers: "55+",
     websiteLink: "https://2021.openinfra.asia",
-    image: "/images/openinfra-days-asia-2021.jpg",
+    image: "/images/openinfra-days-asia-2021.png",
   },
 ];
 
