@@ -116,14 +116,14 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="py-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-white/40 text-sm">
-            © {currentYear} OpenInfra Asia Community. Supported by the OpenInfra Foundation.
+            © {currentYear} OpenInfra Asia Community.
           </p>
           <div className="flex items-center gap-6">
-            <a href="#" className="text-white/40 hover:text-white/60 text-sm transition-colors">
-              Privacy Policy
+            <a href="https://openinfra.org/legal/event-policy" className="text-white/40 hover:text-white/60 text-sm transition-colors">
+              Event Policy
             </a>
-            <a href="#" className="text-white/40 hover:text-white/60 text-sm transition-colors">
-              Terms of Use
+            <a href="https://openinfra.org/legal/code-of-conduct" className="text-white/40 hover:text-white/60 text-sm transition-colors">
+              Code of Conduct
             </a>
             <a
               href={footerData.mainSite}
