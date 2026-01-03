@@ -104,7 +104,7 @@ export const upcomingEvents = [
     id: 1,
     title: "OpenInfra Summit Asia 2026",
     tagline: "The Premier Open Infrastructure Event in Asia",
-    date: "September 8-9, 2026",
+    date: "8-9 September, 2026",
     location: "Shanghai International Convention Center",
     description: "Join thousands of open source enthusiasts, developers, and industry leaders for the biggest OpenInfra event in Asia.",
     highlights: [
@@ -128,7 +128,7 @@ export const pastEvents = [
   {
     id: 1,
     title: "OpenInfra Summit Asia 2024",
-    date: "September 2024",
+    date: "3-4 September 2024",
     location: "Suwon, South Korea",
     attendees: "1,500+",
     speakers: "240",
@@ -138,7 +138,7 @@ export const pastEvents = [
   {
     id: 2,
     title: "OpenInfra & Cloud Native Days Asia 2022",
-    date: "November 2022",
+    date: "23 July 2022",
     location: "Virtual Event",
     attendees: "196+",
     speakers: "26",
@@ -148,7 +148,7 @@ export const pastEvents = [
   {
     id: 3,
     title: "OpenInfra Days Asia 2021",
-    date: "October 2021",
+    date: "11 September 2021",
     location: "Virtual Event",
     attendees: "631+",
     speakers: "47",
