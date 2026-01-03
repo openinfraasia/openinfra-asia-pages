@@ -150,14 +150,6 @@ const Events = () => {
                             <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
                           </a>
                         </Button>
-                        <Button
-                          asChild
-                          variant="outline"
-                          size="lg"
-                          className="border-white/20 text-white/80 hover:bg-white/5 hover:text-white px-8 py-6 text-lg rounded-xl"
-                        >
-                          <a href="#join">Join Community</a>
-                        </Button>
                       </div>
                     </div>
 

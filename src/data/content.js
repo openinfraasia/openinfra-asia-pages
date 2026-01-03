@@ -113,21 +113,10 @@ export const upcomingEvents = [
       "Hands-on labs with OpenStack, Kubernetes & more",
       "Networking with 2,000+ attendees from 30+ countries",
     ],
-    ctaLink: "#",
+    ctaLink: "https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-china/",
     featured: true,
     image: "/images/summit-asia-2026.png",
   },
-  // Add more upcoming events here:
-  // {
-  //   id: 2,
-  //   title: "OpenInfra Day Tokyo",
-  //   date: "March 2026",
-  //   location: "Tokyo, Japan",
-  //   description: "...",
-  //   ctaLink: "https://...",
-  //   featured: false,
-  //   image: "/images/event-tokyo.png",
-  // },
 ];
 
 /**
@@ -148,32 +137,22 @@ export const pastEvents = [
   },
   {
     id: 2,
-    title: "OpenInfra Summit Asia 2023",
-    date: "June 2023",
-    location: "Beijing, China",
-    attendees: "1,200+",
-    speakers: "45+",
-    websiteLink: "https://2023.openinfraasia.org",
-    image: "", // No image - will show placeholder
-  },
-  {
-    id: 3,
     title: "OpenInfra Days Asia 2022",
     date: "November 2022",
     location: "Virtual Event",
     attendees: "2,000+",
     speakers: "60+",
-    websiteLink: "https://2022.openinfraasia.org",
+    websiteLink: "https://2022.openinfra.asia",
     image: "",
   },
   {
-    id: 4,
+    id: 3,
     title: "OpenInfra Days Asia 2021",
     date: "October 2021",
     location: "Virtual Event",
     attendees: "1,800+",
     speakers: "55+",
-    websiteLink: "https://2021.openinfraasia.org",
+    websiteLink: "https://2021.openinfra.asia",
     image: "",
   },
 ];
