@@ -143,7 +143,7 @@ export const pastEvents = [
     attendees: "2,000+",
     speakers: "60+",
     websiteLink: "https://2022.openinfra.asia",
-    image: "",
+    image: "/images/openinfra-days-asia-2022.png",
   },
   {
     id: 3,
@@ -153,7 +153,7 @@ export const pastEvents = [
     attendees: "1,800+",
     speakers: "55+",
     websiteLink: "https://2021.openinfra.asia",
-    image: "",
+    image: "/images/openinfra-days-asia-2021.jpg",
   },
 ];
 
